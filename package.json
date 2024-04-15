@@ -7,7 +7,8 @@
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
-    "strapi": "strapi"
+    "strapi": "strapi",
+    "install": "npm install"
   },
   "dependencies": {
     "@strapi/plugin-cloud": "4.17.0",
